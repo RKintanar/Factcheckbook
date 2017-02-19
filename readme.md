@@ -1,4 +1,4 @@
-![Icon](/factcheck.png =50x)
+![Icon](/factcheck.png =50x50)
 
 Chrome Extension designed to fight fake news by adding reputable information to the Facebook feed.
 
